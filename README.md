@@ -14,4 +14,4 @@ A Processing sketch inspired by an artist or artwork: Campbell's Soup Cans by An
 Processing (Java)
 
 ### Timeline
-Completed in March 2023. Did not think to use git at the time, hence only the code of the final product is available.
+Completed in March 2022. Did not think to use git at the time, hence only the code of the final product is available.
